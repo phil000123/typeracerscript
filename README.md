@@ -1,7 +1,8 @@
-//
-var time = 240; // measured in mili-seconds (500ms = 0.5s)
+
+var time = 240; 
 // you can decrease time by changing the number above ^^
-//
+// measured in mili-seconds (500ms = 0.5s)
+
 var input = document.getElementsByClassName("txtInput")[0];
 var element = document.getElementsByClassName("txtInput")[0];
 var nodes = document.getElementsByClassName("inputPanel")[0].childNodes;
