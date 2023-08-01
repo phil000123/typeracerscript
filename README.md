@@ -1,5 +1,5 @@
 
-var time = 240; 
+var time = 180; 
 // you can decrease time by changing the number above ^^
 // measured in mili-seconds (500ms = 0.5s)
 
